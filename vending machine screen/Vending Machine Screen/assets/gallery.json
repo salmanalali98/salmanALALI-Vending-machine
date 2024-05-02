@@ -1,0 +1,49 @@
+[
+    {
+        "url": "img/1.png",
+        "caption": "Water",
+        "price": "£1.00"
+        
+    },
+    {
+        "url": "img/2.png",
+        "caption": "Chips",
+        "price": "£0.50"
+        
+    },
+    {
+        "url":"img/3.png",
+        "caption": "Soda",
+        "price": "£1.00"
+    },
+    {
+        "url":"img/4.jpeg",
+        "caption": "Coffee",
+        "price": "£1.20"
+    },
+    {
+        "url":"img/5.jpeg",
+        "caption": "Tea",
+        "price": "£0.80"
+    },
+    {
+        "url":"img/6.jpeg",
+        "caption": "Chocolate",
+        "price": "£2.00"
+    },
+    {
+        "url":"img/7.jpeg",
+        "caption": "Energy Drink",
+        "price": "£2.50"
+    },
+    {
+        "url":"img/8.jpeg",
+        "caption": "Orange Juice",
+        "price": "£1.20"
+    },
+    {
+        "url":"img/9.jpeg",
+        "caption": "Milk",
+        "price": "£1.00"
+    }
+]
